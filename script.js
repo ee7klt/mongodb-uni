@@ -1,5 +1,5 @@
 // Find one document in collection
-var doc = db.coll.findOne();
+var doc = db.things.findOne();
 
 // Print the result
 printjson(doc);
