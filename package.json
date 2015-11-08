@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-uni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ee7klt/mongodb-uni.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ee7klt/mongodb-uni/issues"
+  },
+  "homepage": "https://github.com/ee7klt/mongodb-uni#readme",
+  "dependencies": {
+    "mongodb": "^2.0.47"
+  }
+}
