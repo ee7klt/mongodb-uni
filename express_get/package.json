@@ -1,0 +1,17 @@
+{
+  "name": "express_get",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "express": "^3.21.2",
+    "named-routes": "^2.0.1",
+    "swig": "^1.4.2"
+  }
+}
